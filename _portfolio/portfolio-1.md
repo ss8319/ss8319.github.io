@@ -1,6 +1,6 @@
 ---
 title: "AI Search over Clinical Practice Guidelines"
-excerpt: "TLDR: Built a vertical search engine where doctors can query over 17 medical specialities and 122 Clinical Practice Guidelines in addition to the latest Pubmed articles.<br/><img src='/images/AI-info-search.png'alt='AI Search' width='300' height='200'>"
+excerpt: "TLDR: Built a vertical search engine optimised for academic style citations where doctors can query over 17 medical specialities and 122 Clinical Practice Guidelines in addition to the latest Pubmed articles.<br/><img src='/images/AI-info-search.png'alt='AI Search' width='300' height='200'>"
 collection: portfolio
 ---
 
