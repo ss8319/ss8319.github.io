@@ -15,7 +15,7 @@ Education
 <div style="display:flex;">
 
   <div style="flex:0.5; padding-right:5%">
-    <img src="{{ site.url }}/images/icl.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+    <img src="{{ site.url }}/images/ICL.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
   </div>
 
   <div style="flex:4;">
@@ -62,7 +62,7 @@ Work experience
 
   <div style="flex:4;">
     <p style="margin:0px">
-      <b style="font-size: 130%;">SIL Global</b>
+      <b style="font-size: 130%;">SilenceSpeaks</b>
       <span style="float:right; font-size:80%; color:#7a7a7a;">August 2023 - September 2023 </span>
     </p>
     NLP Intern 
