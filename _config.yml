@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Shamus Sim
+title                    : "Shamus Sim"
 title_separator          : "-"
 name                     : &name "Shamus Sim"
 description              : &description "AI Engineer and Researcher"
