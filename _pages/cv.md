@@ -15,7 +15,7 @@ Education
 <div style="display:flex;">
 
   <div style="flex:0.5; padding-right:5%">
-    <img src="{{ site.url }}/images/ICL.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+    <img src="{{ site.url }}/images/resume/ICL.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
   </div>
 
   <div style="flex:4;">
@@ -65,7 +65,7 @@ Work experience
       <b style="font-size: 130%;">SilenceSpeaks</b>
       <span style="float:right; font-size:80%; color:#7a7a7a;">August 2023 - September 2023 </span>
     </p>
-    NLP Intern 
+    Data Scientist 
     <div style="color:#7a7a7a">
       Develop Sign Language Anonymisation algorithms and STT and TTS tools
     </div>
