@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "AI Information Search over Clinical Practice Guidelines"
+excerpt: "TLDR: Built a vertical search engine where doctors can query over 19 medical specialities and 122 Clinical Practice Guidelines in addition to the latest Pubmed articles.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
