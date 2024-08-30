@@ -13,4 +13,7 @@ I’ve worked on transfer learning/domain adaptation on multilingual low-resourc
 
 I am passionate about working at the intersection of Machine Learning, Healthcare and Medicine, leveraging the best of Machine Learning to make healthcare more efficient, cost-effective, and universally accessible.
 
+My research interests lie at the intersection of Natural Language Processing (NLP) and Machine Learning, with a strong focus on data-efficient approaches. I am particularly intrigued by the challenges of Continual Learning, including Continued Pretraining, and Domain Adaptation. My goal is to develop algorithms that are not only theoretically sound but also practical and deployable in real-world applications.
+
+
 
