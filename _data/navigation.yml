@@ -7,9 +7,23 @@
 main:
   - title: "Portfolio"
     url: /portfolio/
+    children:
+      - title: "Project 1"
+        url: /portfolio/portfolio-1/
+      - title: "Project 2"
+        url: /portfolio/portfolio-2/
+      - title: "Project 3"
+        url: /portfolio/portfolio-3/
+      - title: "Project 4"
+        url: /portfolio/portfolio-4/
+      - title: "Project 5" # Add this line
+        url: /portfolio/portfolio-5/ # Add this line
 
   - title: "Publications"
     url: /publications/
+    children:
+      - title: "PEFT"
+        url: /publications/2009-10-01-paper-title-number-1/
 
   - title: "CV"
     url: /cv/
