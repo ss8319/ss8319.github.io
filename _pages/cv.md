@@ -156,7 +156,7 @@ Other Software Projects
 
   <div style="flex:4;">
     <p style="margin:0px">
-      <b style="font-size: 130%;">NHS and Imperial College London collaboration</b>
+      <b style="font-size: 130%;">UK's National Health Sservice (NHS)</b>
       <span style="float:right; font-size:80%; color:#7a7a7a;">December 2021 </span>
     </p>
     Software Engineer
