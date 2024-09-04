@@ -2,9 +2,9 @@
 title: "Enhancing Medical Summarization with Parameter Efficient Fine Tuning on Local CPUs (Under Review)"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-09-04-local-cpu-peft
+permalink: /publication/2024-09-16-local-cpu-peft
 excerpt: 'Documenting and summarizing patient symptoms and medical history for each visit can significantly burden clinicians' time management. Large Language Models (LLMs) have demonstrated great potential in natural language processing (NLP) tasks; however, their effectiveness in clinical summarization tasks has not yet been rigorously validated. While much research has focused on leveraging closed LLMs like GPT-4, Claude, and Gemini for clinical applications, privacy concerns hinder their deployment in real clinical settings. On-premises deployment offers a potential solution. This study examines domain adaptation techniques on the open-source LLM, Llama 3 8B Instruct, to improve clinical summarization. Our approach emphasizes fine-tuning on CPUs instead of the more commonly used GPUs, aiming for greater cost savings in practical applications. We apply Quantized Low-Rank Adaptation (QLoRA) for efficient task-specific adaptation and introduce CPU optimization techniques such as IPEX-LLM and Intel® AMX to enhance performance. Our results show that CPU fine-tuning, while less conventional than GPU-based methods, still provides a practical, cost-effective, and privacy-aware solution for on-premises deployment, supporting the accuracy of medical summarization and enabling customization according to unique clinical requirements'
-date: 2024-09-24
+date: 2024-09-16
 venue: 'ICECCE. An IEEE Approved Conference Under Record # 63537'
 slidesurl: 'https://github.com/qmed-asia/Llama3-Finetuning-CPU-GPU'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
