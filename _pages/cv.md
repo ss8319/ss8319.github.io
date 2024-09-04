@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+# Education
 ======
 <!-- BEng -->
 <div style="display:flex;">
@@ -31,7 +31,7 @@ Education
 </div>
  <hr style="height:2em; margin:0em; visibility:hidden;" />
 
-Work experience
+# Work experience
 ======
 <!-- MRANTI -->
 <div style="display:flex;">
@@ -43,7 +43,7 @@ Work experience
   <div style="flex:4;">
     <p style="margin:0px">
       <b style="font-size: 130%;">MRANTI</b>
-      <span style="float:right; font-size:80%; color:#7a7a7a;">Oct 2024 </span>
+      <span style="float:right; font-size:80%; color:#7a7a7a;">Incoming Oct 2024 </span>
     </p>
      AI Fellow at <a href="https://mranti.my/" target="_blank">Malaysian Research Accelerator for Technology & Innovation (MRANTI)</a>.
     <div style="color:#7a7a7a">
@@ -173,8 +173,7 @@ Work experience
 </div>
  <hr style="height:1em; margin:0em; visibility:hidden;" />
 
-
-Awards 🌟
+# Awards 🌟
 ======
 <ul>
   <li>
@@ -183,12 +182,12 @@ Awards 🌟
     <i>Kolej Tuanku Ja'afar's A-Level Scholarship</i>
   </li>
 
-Skills
+# Skills
 ======
-* NLP and Large Language Models
+* **NLP and Large Language Models**
   * Continual Pre-training with Unsloth
-  * Experience with PEFT on Local Intel CPUs with training speeds comparaible to an A100 via efficient memory allocators and accelerated matrix
-operations utilisation of Intel IPEX-LLM and AMX.
+  * Experience with PEFT on Local Intel CPUs with training speeds comparaible to an A100 via efficient memory allocators using tcmalloc and accelerated matrix
+operations using Intel Advanced Matrix Extensions.
   * Multi-GPU fine-tuning using FSDP (Fully Sharded Data Parallel) + LORA
   * LLM quantisation with llama.cpp
   * Build and serve RAG pipelines 
@@ -198,7 +197,7 @@ operations utilisation of Intel IPEX-LLM and AMX.
   * LLM evals such as Natural Language Inference, RAG evaluations, LLM as a Judge evals, BLEU, ROUGE, Perplexity etc
   * NER
 
-* MLOps
+* **MLOps**
   * Most familiar with Azure ML 
   * Docker containers for training and deployment
   * Schedule training jobs with automated resource allocation
@@ -207,16 +206,16 @@ operations utilisation of Intel IPEX-LLM and AMX.
   * FastAPI 
   * LLM serving with Ollama 
 
-* Reinforcement Learning
+* **Reinforcement Learning**
   * Q-Learning, DQN
 
-* Computer Vision
+* **Computer Vision**
   * CNNs for Medical Image Analysis
   * Cell tracking
   * GRAD-CAM for activation visualisation
   * GANS for Video Anonymization
 
-* Signal Processing
+* **Signal Processing**
   * Digital Image Processing 
   * Seizure predictions via statistical analysis of seizures
   * Contactless remote patient monitoring with rPPG 
