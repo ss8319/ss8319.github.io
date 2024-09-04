@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-09-04-llm-reasoning
 excerpt: "This paper explores the critical yet overlooked topic of reasoning behavior in large language models (LLMs), especially in medical applications. While performance metrics like accuracy and F1 scores dominate discussions, we emphasizes the need to understand how LLMs derive their solutions, as failures in reasoning can have serious real-world consequences, particularly in sensitive fields like medicine. The review defines reasoning behavior in the context of medical LLMs, highlights the scarcity of research on this aspect, and proposes strategies to improve transparency and trust in LLM-driven clinical decision-making."
-date: 2024-09-24
+# date: 2024-09-24
 # venue: 'TBC'
 # slidesurl: 'https://github.com/qmed-asia/Llama3-Finetuning-CPU-GPU'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'

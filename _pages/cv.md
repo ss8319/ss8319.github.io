@@ -33,6 +33,26 @@ Education
 
 Work experience
 ======
+<!-- MRANTI -->
+<div style="display:flex;">
+
+  <div style="flex:0.5; padding-right:5%">
+    <img src="{{ site.url }}/images/resume/mranti.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+  </div>
+
+  <div style="flex:4;">
+    <p style="margin:0px">
+      <b style="font-size: 130%;">MRANTI</b>
+      <span style="float:right; font-size:80%; color:#7a7a7a;">Oct 2024 </span>
+    </p>
+     AI Fellow at <a href="https://mranti.my/" target="_blank">Malaysian Research Accelerator for Technology & Innovation (MRANTI)</a>.
+    <div style="color:#7a7a7a">
+      Incoming AI Fellow
+    </div>
+  </div>
+</div>
+ <hr style="height:1em; margin:0em; visibility:hidden;" />
+
 <!-- Qmed -->
 <div style="display:flex;">
 
@@ -47,7 +67,7 @@ Work experience
     </p>
     Healthcare AI Engineer and Researcher
     <div style="color:#7a7a7a">
-      Research and deployment of Medical Computer Vision and LLM products
+      Research and deployment of Medical Computer Vision and LLM products with our partners in NVIDIA and Intel.
     </div>
   </div>
 </div>
