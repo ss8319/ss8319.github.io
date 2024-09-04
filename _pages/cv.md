@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 # Education
-======
 <!-- BEng -->
 <div style="display:flex;">
 
@@ -32,7 +31,7 @@ redirect_from:
  <hr style="height:2em; margin:0em; visibility:hidden;" />
 
 # Work experience
-======
+
 <!-- MRANTI -->
 <div style="display:flex;">
 
@@ -173,38 +172,27 @@ redirect_from:
 </div>
  <hr style="height:1em; margin:0em; visibility:hidden;" />
 
-# Awards 🌟
-======
-<ul>
-  <li>
-    <b>Merit Scholarship </b>
-    <span style="float:right; font-size:80%; color:#7a7a7a;">2018-2019</span> <br>
-    <i>Kolej Tuanku Ja'afar's A-Level Scholarship</i>
-  </li>
-
 # Skills
-======
 * **NLP and Large Language Models**
   * Continual Pre-training with Unsloth
-  * Experience with PEFT on Local Intel CPUs with training speeds comparaible to an A100 via efficient memory allocators using tcmalloc and accelerated matrix
-operations using Intel Advanced Matrix Extensions.
+  * Experience with PEFT on Local Intel CPUs with training speeds comparable to an A100, utilizing efficient memory allocators like tcmalloc and accelerated matrix operations via Intel Advanced Matrix Extensions.
   * Multi-GPU fine-tuning using FSDP (Fully Sharded Data Parallel) + LORA
   * LLM quantisation with llama.cpp
-  * Build and serve RAG pipelines 
-  * Domain adaptation techniques via fine-tuning, tokenizer training and embedding transfer
+  * Build and serve RAG pipelines
+  * Domain adaptation techniques via fine-tuning, tokenizer training, and embedding transfer
   * RL with AI Feedback
   * Knowledge Graphs
-  * LLM evals such as Natural Language Inference, RAG evaluations, LLM as a Judge evals, BLEU, ROUGE, Perplexity etc
+  * LLM evaluations such as Natural Language Inference, RAG evaluations, LLM as a Judge evals, BLEU, ROUGE, Perplexity, etc.
   * NER
 
 * **MLOps**
-  * Most familiar with Azure ML 
+  * Most familiar with Azure ML
   * Docker containers for training and deployment
   * Schedule training jobs with automated resource allocation
-  * API serving of Neural Networks on Cloud computer clusters
+  * API serving of Neural Networks on cloud computer clusters
   * SQL Database
-  * FastAPI 
-  * LLM serving with Ollama 
+  * FastAPI
+  * LLM serving with Ollama
 
 * **Reinforcement Learning**
   * Q-Learning, DQN
@@ -212,13 +200,21 @@ operations using Intel Advanced Matrix Extensions.
 * **Computer Vision**
   * CNNs for Medical Image Analysis
   * Cell tracking
-  * GRAD-CAM for activation visualisation
+  * GRAD-CAM for activation visualization
   * GANS for Video Anonymization
 
 * **Signal Processing**
-  * Digital Image Processing 
-  * Seizure predictions via statistical analysis of seizures
-  * Contactless remote patient monitoring with rPPG 
+  * Digital Image Processing
+  * Seizure predictions via statistical analysis of EEG data
+  * Contactless remote patient monitoring with rPPG
+
+# Awards 🌟
+<ul>
+  <li>
+    <b>Merit Scholarship </b>
+    <span style="float:right; font-size:80%; color:#7a7a7a;">2018-2019</span> <br>
+    <i>Kolej Tuanku Ja'afar's A-Level Scholarship</i>
+  </li>
 
 <!-- Publications
 ======
