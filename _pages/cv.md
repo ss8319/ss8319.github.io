@@ -44,7 +44,7 @@ redirect_from:
       <b style="font-size: 130%;">MRANTI</b>
       <span style="float:right; font-size:80%; color:#7a7a7a;">Incoming Oct 2024 </span>
     </p>
-     AI Fellow at <a href="https://mranti.my/" target="_blank">Malaysian Research Accelerator for Technology & Innovation (MRANTI)</a>.
+     AI Fellow at Malaysian Research Accelerator for Technology & Innovation <a href="https://mranti.my/" target="_blank">(MRANTI)</a>.
     <div style="color:#7a7a7a">
       Incoming AI Fellow
     </div>
@@ -141,7 +141,7 @@ redirect_from:
 
   <div style="flex:4;">
     <p style="margin:0px">
-      <b style="font-size: 130%;">UK's National Health Sservice (NHS)</b>
+      <b style="font-size: 130%;">UK's National Health Service (NHS)</b>
       <span style="float:right; font-size:80%; color:#7a7a7a;">December 2021 </span>
     </p>
     Software Engineer
