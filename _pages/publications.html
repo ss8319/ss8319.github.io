@@ -33,26 +33,3 @@ author_profile: true
 {% include archive-single.html %}
 {% endfor %}
 {% endif %}
-
-
-
-{% if site.publication_category %}
-{% for category_key, category_value in site.publication_category %}
-{% assign title_shown = false %}
-{% for post in site.publications reversed %}
-{% if post.category != category_key %}
-{% continue %}
-{% endif %}
-{% unless title_shown %}
-<h2>{{ category_value.title }}</h2>
-<hr />
-{% assign title_shown = true %}
-{% endunless %}
-{% include archive-single.html %}
-{% endfor %}
-{% endfor %}
-{% else %}
-{% for post in site.publications reversed %}
-{% include archive-single.html %}
-{% endfor %}
-{% endif %}
