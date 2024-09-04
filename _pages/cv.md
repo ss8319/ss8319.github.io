@@ -168,14 +168,40 @@ Other Software Projects
  <hr style="height:1em; margin:0em; visibility:hidden;" />
 
 
-<!-- Skills
+<!-- Skills and Experience -->
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
+* NLP and Large Language Models
+  * Continual Pre-training with Unsloth
+  * Experience with PEFT on Local Intel CPUs with training speeds comparaible to an A100 via efficient memory allocators and accelerated matrix
+operations utilisation of Intel IPEX-LLM and AMX.
+  * Multi-GPU fine-tuning using FSDP (Fully Sharded Data Parallel) + LORA
+  * LLM quantisation with llama.cpp
+  * Build and serve RAG pipelines 
+  * Domain adaptation techniques via fine-tuning, tokenizer training and embedding transfer
+  * RL with AI Feedback
+  * Knowledge Graphs
+  * LLM evals such as Natural Language Inference, RAG evaluations, LLM as a Judge evals, BLEU, ROUGE, Perplexity etc
+  * NER
+
+* MLOps
+  * Most familiar with Azure ML 
+  * Docker containers for training and deployment
+  * Schedule training jobs with automated resource allocation
+  * API serving of Neural Networks on Cloud computer clusters
+  * SQL Database
+  * FastAPI 
+  * LLM serving with Ollama 
+
+* Computer Vision
+  * CNNs for Medical Image Analysis
+  * Cell tracking
+  * GRAD-CAM for activation visualisation
+  * GANS for Video Anonymization
+
+* Signal Processing
+  * Digital Image Processing 
+  * Seizure predictions via statistical analysis of seizures
+  * Contactless remote patient monitoring with rPPG 
 
 <!-- Publications
 ======
