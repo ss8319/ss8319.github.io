@@ -30,7 +30,7 @@ redirect_from:
 </div>
  <hr style="height:2em; margin:0em; visibility:hidden;" />
 
-# Work experience
+# Work experience 
 
 <!-- MRANTI -->
 <div style="display:flex;">
@@ -172,7 +172,7 @@ redirect_from:
 </div>
  <hr style="height:1em; margin:0em; visibility:hidden;" />
 
-# Skills
+# Skills 🔧
 * **NLP and Large Language Models**
   * Continual Pre-training with Unsloth
   * Experience with PEFT on Local Intel CPUs with training speeds comparable to an A100, utilizing efficient memory allocators like tcmalloc and accelerated matrix operations via Intel Advanced Matrix Extensions.
@@ -199,8 +199,8 @@ redirect_from:
 
 * **Computer Vision**
   * CNNs for Medical Image Analysis
-  * Cell tracking
-  * GRAD-CAM for activation visualization
+  * Cell segmentation and tracking
+  * GRADCAM for activation visualization
   * GANS for Video Anonymization
 
 * **Signal Processing**
