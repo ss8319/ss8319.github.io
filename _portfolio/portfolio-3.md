@@ -1,5 +1,7 @@
 ---
-title: "<a href='https://ai.sil.org/projects/serval'>Domain Adaptation of Neural Multilingual Translation Models</a>"
-excerpt: "TLDR: During my time at SIL Global, I researched low-resource machine translation focusing on data augmentation, data extraction, supervised fine-tuning, improving tokenizer support and growing embeddings to support new languages. The project is now maintained under <a href='https://ai.sil.org/projects/serval'>Project Serval</a> which integrates with <a href='https://ai.sil.org/projects/scriptureforge'>Scripture Forge</a>."
+title: "<a href='https://dr.qmed.asia/me/ai/mcode'>AI Medical Coding</a>"
+excerpt: "TLDR: Built an AI-powered medical coding engine that automates the translation of patient case details into ICD-11 codes, addressing the time-consuming, error-prone nature of manual coding with fast and scalable automation."
 collection: portfolio
 ---
+
+This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
