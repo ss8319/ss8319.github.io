@@ -40,7 +40,7 @@ redirect_from:
 
   <div style="flex:4;">
     <p style="margin:0px">
-      <b style="font-size: 130%;">MRANTI</b>
+      <b style="font-size: 130%;">Cohere</b>
       <span style="float:right; font-size:80%; color:#7a7a7a;">Incoming Oct 2024 </span>
     </p>
      Community AI Researcher at <a href="https://cohere.com/research" target="_blank">Cohere</a>.
@@ -91,7 +91,8 @@ redirect_from:
 </div>
  <hr style="height:1em; margin:0em; visibility:hidden;" />
 
- <!-- Cloud Design
+<!--
+<!-- Cloud Design-->
 <div style="display:flex;">
 
   <div style="flex:0.5; padding-right:5%">
@@ -109,7 +110,8 @@ redirect_from:
     </div>
   </div>
 </div>
- <hr style="height:1em; margin:0em; visibility:hidden;" /> -->
+ <hr style="height:1em; margin:0em; visibility:hidden;" />
+-->
 
 <!-- SilenceSpeaks -->
 <div style="display:flex;">
