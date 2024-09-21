@@ -31,12 +31,11 @@ redirect_from:
  <hr style="height:2em; margin:0em; visibility:hidden;" />
 
 # Work experience 
-
-<!-- MRANTI -->
+<!-- Cohere -->
 <div style="display:flex;">
 
   <div style="flex:0.5; padding-right:5%">
-    <img src="{{ site.url }}/images/resume/mranti.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+    <img src="{{ site.url }}/images/resume/cohere.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
   </div>
 
   <div style="flex:4;">
@@ -44,9 +43,9 @@ redirect_from:
       <b style="font-size: 130%;">MRANTI</b>
       <span style="float:right; font-size:80%; color:#7a7a7a;">Incoming Oct 2024 </span>
     </p>
-     AI Fellow at Malaysian Research Accelerator for Technology & Innovation <a href="https://mranti.my/" target="_blank">(MRANTI)</a>.
+     Community AI Researcher at <a href="https://cohere.com/research" target="_blank">Cohere</a>.
     <div style="color:#7a7a7a">
-      Incoming AI Fellow
+      Selected to be part of Cohere For AI as a community AI Researcher
     </div>
   </div>
 </div>
@@ -72,7 +71,27 @@ redirect_from:
 </div>
  <hr style="height:1em; margin:0em; visibility:hidden;" />
 
- <!-- Cloud Design -->
+<!-- MRANTI -->
+<div style="display:flex;">
+
+  <div style="flex:0.5; padding-right:5%">
+    <img src="{{ site.url }}/images/resume/mranti.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+  </div>
+
+  <div style="flex:4;">
+    <p style="margin:0px">
+      <b style="font-size: 130%;">MRANTI</b>
+      <span style="float:right; font-size:80%; color:#7a7a7a;">Incoming Oct 2024 </span>
+    </p>
+     AI Fellow at Malaysian Research Accelerator for Technology & Innovation <a href="https://mranti.my/" target="_blank">(MRANTI)</a>.
+    <div style="color:#7a7a7a">
+      Incoming AI Fellow
+    </div>
+  </div>
+</div>
+ <hr style="height:1em; margin:0em; visibility:hidden;" />
+
+ <!-- Cloud Design
 <div style="display:flex;">
 
   <div style="flex:0.5; padding-right:5%">
@@ -90,7 +109,7 @@ redirect_from:
     </div>
   </div>
 </div>
- <hr style="height:1em; margin:0em; visibility:hidden;" />
+ <hr style="height:1em; margin:0em; visibility:hidden;" /> -->
 
 <!-- SilenceSpeaks -->
 <div style="display:flex;">
