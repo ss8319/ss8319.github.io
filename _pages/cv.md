@@ -211,7 +211,7 @@ redirect_from:
   * API serving of Neural Networks on cloud computer clusters
   * SQL Database
   * FastAPI
-  * LLM serving with Ollama
+  * LLM serving with Ollama and NVIDIA's NIMS
 
 * **Reinforcement Learning**
   * Q-Learning, DQN
