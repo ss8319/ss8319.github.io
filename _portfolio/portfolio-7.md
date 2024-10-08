@@ -1,5 +1,7 @@
 ---
-title: "<a href='https://github.com/ss8319/RSNA-MICCAI-Brain-Tumor-Radiogenomic-Classification/tree/main'>RSNA-MICCAI Brain Tumor Radiogenomic Classification</a>"
-excerpt: "TLDR: Machine Learning solutions for brain tumor classifcation"
+title: "CNN Bone Age Classification"
+excerpt: "TLDR: Medical Imaging AI for Radiologists that helps predict  Bone Age from Left Hand radiographs."
 collection: portfolio
 ---
+
+This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
