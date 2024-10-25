@@ -214,17 +214,13 @@ redirect_from:
   * FastAPI
   * LLM serving with Ollama and NVIDIA's NIMS
 
-* **Reinforcement Learning**
-  * Q-Learning, DQN
-
 * **Computer Vision**
-  * CNNs for Medical Image Analysis
-  * Cell segmentation and tracking
+  * Build and mantain DR.MATA(AI for Diabetic Retinopathy detection), a project by the Ministry of Health Malaysia
+  * Medical Image Analysis
   * GRADCAM for activation visualization
   * GANS for Video Anonymization
 
 * **Signal Processing**
-  * Digital Image Processing
   * Seizure predictions via statistical analysis of EEG data
   * Contactless remote patient monitoring with rPPG
 
