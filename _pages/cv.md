@@ -41,7 +41,7 @@ redirect_from:
   <div style="flex:4;">
     <p style="margin:0px">
       <b style="font-size: 130%;">Cohere</b>
-      <span style="float:right; font-size:80%; color:#7a7a7a;">Incoming Oct 2024 </span>
+      <span style="float:right; font-size:80%; color:#7a7a7a;">Oct 2024 - Current </span>
     </p>
      Community AI Researcher at <a href="https://cohere.com/research" target="_blank">Cohere</a>.
     <div style="color:#7a7a7a">
@@ -81,11 +81,11 @@ redirect_from:
   <div style="flex:4;">
     <p style="margin:0px">
       <b style="font-size: 130%;">MRANTI</b>
-      <span style="float:right; font-size:80%; color:#7a7a7a;">Incoming Oct 2024 </span>
+      <span style="float:right; font-size:80%; color:#7a7a7a;">Oct 2024 - Current</span>
     </p>
      AI Fellow at Malaysian Research Accelerator for Technology & Innovation <a href="https://mranti.my/" target="_blank">(MRANTI)</a>.
     <div style="color:#7a7a7a">
-      Incoming AI Fellow
+      AI Fellow
     </div>
   </div>
 </div>
