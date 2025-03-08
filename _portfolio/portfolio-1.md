@@ -1,5 +1,5 @@
 ---
-title: "<a href='https://dr.sandbox.qmed.asia/me/medical-scribe'>Medical Scribe</a>"
+title: "<a href='https://dr.qmed.asia/me/medical-scribe'>Medical Scribe</a>"
 excerpt: "TLDR: An ambient AI assistant that frees clinicians from the documentation burden."
 collection: portfolio
 ---
