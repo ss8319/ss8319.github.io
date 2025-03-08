@@ -8,7 +8,7 @@ excerpt: "Background: Despite the current ubiquity of Large Language Models (LLM
 # date: 2024-09-24
 # venue: 'TBC'
 # slidesurl: 'https://github.com/qmed-asia/Llama3-Finetuning-CPU-GPU'
-# paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://arxiv.org/abs/2412.15748'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
