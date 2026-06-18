@@ -25,6 +25,33 @@
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
 
+<!-- Publication list styling -->
+<style>
+  .archive__item-title { margin-bottom: 0.15em; }
+  .pub__authors { margin: 0.1em 0 0.2em; font-size: 0.95em; color: #4a4a4a; line-height: 1.4; }
+  .pub__authors strong { color: #1a1a1a; }
+  .pub__meta { margin: 0 0 0.35em; font-size: 0.9em; color: #6a737b; }
+  .pub__venue { font-style: italic; }
+  .pub__status {
+    display: inline-block;
+    margin-left: 0.45em;
+    padding: 0.1em 0.6em;
+    border-radius: 999px;
+    font-size: 0.72em;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    vertical-align: middle;
+    background: #eef1f3;
+    color: #4a4a4a;
+  }
+  .pub__status--under-review { background: #fff3cd; color: #8a6d00; }
+  .pub__status--accepted { background: #e2f5e9; color: #1d7a44; }
+  .pub__status--published { background: #e3effe; color: #1b5fb0; }
+  .pub__links { margin: 0.1em 0 0; font-size: 0.9em; }
+  .pub__links a { margin-right: 1.1em; white-space: nowrap; }
+</style>
+
 <!-- Support for MatJax -->
 <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
