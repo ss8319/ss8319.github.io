@@ -9,4 +9,5 @@ status: "Under Review"
 authors: "**S. Sim**, T. Chen, K.W. Choy"
 author_role: "First Author"
 collaborators: "Universiti Teknologi MARA (UiTM)"
+collaborator_logo: "/images/collab/uitm.png"
 ---

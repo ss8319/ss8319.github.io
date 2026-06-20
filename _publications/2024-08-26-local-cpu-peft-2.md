@@ -9,6 +9,7 @@ status: "Oral Presentation"
 authors: "**S. Sim**, M.F. Goh, W.C. Yap, Z.Y. Diong"
 author_role: "First Author"
 collaborators: "Intel Malaysia"
+collaborator_logo: "/images/collab/intel.png"
 paperurl: "https://ieeexplore.ieee.org/document/10823619"
 excerpt: "A cost-effective, privacy-aware approach to clinical summarization that fine-tunes Llama 3 8B on CPUs using QLoRA together with IPEX-LLM and Intel AMX optimizations."
 ---
