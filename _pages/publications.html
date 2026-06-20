@@ -7,6 +7,18 @@ subtitle: Papers in medical AI, large language models, and neuro-imaging — spa
 ---
 
 {% assign pubs = site.publications | sort: 'date' | reverse %}
+{% assign papers = pubs | where_exp: "p", "p.entry_type != 'presentation'" %}
+{% assign presentations = pubs | where: "entry_type", "presentation" %}
+
 <div class="pubs">
-  {% for post in pubs %}{% include pub-item.html %}{% endfor %}
+  {% for post in papers %}{% include pub-item.html %}{% endfor %}
 </div>
+
+{% if presentations.size > 0 %}
+<section class="pub-group">
+  <h2>Conference Presentations</h2>
+  <div class="pubs">
+    {% for post in presentations %}{% include pub-item.html %}{% endfor %}
+  </div>
+</section>
+{% endif %}
