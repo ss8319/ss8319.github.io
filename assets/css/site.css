@@ -99,6 +99,7 @@ nav{position:sticky;top:0;z-index:50;background:rgba(255,255,255,.78);backdrop-f
 .stop-text{display:flex;flex-direction:column;align-items:center;text-align:center}
 .stop .city{font-family:"Space Grotesk";font-weight:600;color:var(--ink);font-size:1.06rem}
 .stop .note{font-size:.84rem;color:var(--muted);margin-top:4px}
+.flag{width:18px;height:auto;border-radius:2px;vertical-align:-2px;margin-right:5px;box-shadow:0 0 0 1px rgba(0,0,0,.07)}
 .stop .period{margin-top:9px;font-size:.71rem;font-weight:700;letter-spacing:.03em;color:var(--accent);background:var(--accent-soft);padding:3px 11px;border-radius:999px;display:inline-block}
 .stop.now .pin{background:var(--grad);border-color:transparent;color:#fff;animation:pulse-ring 2.2s infinite}
 .stop.now .city{color:var(--accent)}
@@ -166,6 +167,8 @@ a.card:hover .card-go{gap:8px}
 .tag--first{background:var(--accent-soft);color:var(--accent);border-color:#dcdcfa}
 .tag--collab{background:#fff;color:#5b6373}
 .tag-logo{height:17px;width:auto;max-width:62px;object-fit:contain;display:block}
+.collab-lead{align-self:center;font-size:.74rem;font-weight:500;color:var(--muted)}
+.ptags{align-items:center}
 
 /* ---------- PAGE HERO (inner pages) ---------- */
 .page-hero{position:relative;overflow:hidden;padding:66px 0 30px}

@@ -5,7 +5,7 @@
     {% if post.author_role or post.collaborators %}
     <div class="ptags">
       {% if post.author_role %}<span class="tag{% if post.author_role == 'First Author' %} tag--first{% endif %}">{% if post.author_role == 'First Author' %}1st Author{% else %}{{ post.author_role }}{% endif %}</span>{% endif %}
-      {% if post.collaborators %}<span class="tag tag--collab">{% if post.collaborator_logo %}<img class="tag-logo" src="{{ post.collaborator_logo | relative_url }}" alt="{{ post.collaborators }}">{% else %}<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3 4 7h16l-8-4zM4 10h16M5 21V10m14 11V10M9 21V10m6 11V10M3 21h18"/></svg>{% endif %}{{ post.collaborators }}</span>{% endif %}
+      {% if post.collaborators %}<span class="collab-lead">in collaboration with</span><span class="tag tag--collab">{% if post.collaborator_logo %}<img class="tag-logo" src="{{ post.collaborator_logo | relative_url }}" alt="{{ post.collaborators }}">{% else %}<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3 4 7h16l-8-4zM4 10h16M5 21V10m14 11V10M9 21V10m6 11V10M3 21h18"/></svg>{% endif %}{{ post.collaborators }}</span>{% endif %}
     </div>
     {% endif %}
   </div>
