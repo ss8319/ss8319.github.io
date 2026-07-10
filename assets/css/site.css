@@ -154,6 +154,7 @@ a.card:hover .card-go{gap:8px}
 .pub .pmeta b{color:#4b5366;font-weight:600}
 .status{flex-shrink:0;font-size:.72rem;font-weight:700;letter-spacing:.03em;text-transform:uppercase;padding:5px 11px;border-radius:999px;white-space:nowrap;background:#eef1f3;color:#4a4a4a}
 .status--accepted{background:#e2f5e9;color:#1d7a44}
+.status--accepted-oral{background:#e2f5e9;color:#1d7a44}
 .status--under-review{background:#fff3cd;color:#8a6d00}
 .status--published{background:#e3effe;color:#1b5fb0}
 .viewall{display:inline-flex;align-items:center;gap:7px;margin-top:26px;font-weight:600;color:var(--accent)}
