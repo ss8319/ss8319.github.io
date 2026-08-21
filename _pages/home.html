@@ -130,8 +130,8 @@ redirect_from:
       <p>Recent papers in medical AI, LLMs, and neuro-imaging.</p>
     </div>
     <div class="pubs">
-      {% assign featured = site.publications | where_exp: "p", "p.entry_type != 'presentation'" | sort: 'date' | reverse %}
-      {% for post in featured limit: 4 %}{% include pub-item.html %}{% endfor %}
+      {% assign featured = site.publications | where_exp: "p", "p.featured" | sort: 'featured' %}
+      {% for post in featured %}{% include pub-item.html %}{% endfor %}
     </div>
     <a href="{{ '/publications/' | relative_url }}" class="viewall">View all publications
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M5 12h14M13 6l6 6-6 6"/></svg>

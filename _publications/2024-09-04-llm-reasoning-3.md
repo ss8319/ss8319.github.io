@@ -6,6 +6,7 @@ permalink: /publication/2024-09-04-llm-reasoning
 date: 2025-10-28
 venue: "eLife (Q1)"
 status: "Published"
+featured: 4
 authors: "**S. Sim**, T. Chen"
 author_role: "First Author"
 paperurl: "https://elifesciences.org/articles/106187"
