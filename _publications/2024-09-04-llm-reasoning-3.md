@@ -3,8 +3,7 @@ title: "Critique of Impure Reason: Unveiling the reasoning behaviour of medical 
 collection: publications
 category: manuscripts
 permalink: /publication/2024-09-04-llm-reasoning
-date: 2026-04-15
-year: 2025
+date: 2025-10-28
 venue: "eLife (Q1)"
 status: "Published"
 authors: "**S. Sim**, T. Chen"
