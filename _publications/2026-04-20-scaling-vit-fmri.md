@@ -9,4 +9,5 @@ status: "Accepted"
 featured: 3
 authors: "C. Lane, M. Tripathy, L. K. Murali, R. S. Grandhi, **S. Sim Zi Yang**, S. Gijsen, … P. S. Scotti"
 author_role: "Co-author"
+arxiv: "https://arxiv.org/abs/2510.13768"
 ---
