@@ -4,10 +4,10 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-09-04-llm-reasoning
 date: 2025-10-28
-venue: "eLife (Q1)"
+venue: "eLife 14:e106187 (Q1)"
 status: "Published"
 featured: 4
-authors: "**S. Sim**, T. Chen"
+authors: "**S. Sim Zi Yang**, T. Chen"
 author_role: "First Author"
 paperurl: "https://elifesciences.org/articles/106187"
 arxiv: "https://arxiv.org/abs/2412.15748"

@@ -4,9 +4,9 @@ collection: publications
 category: conferences
 permalink: /publication/2024-08-26-local-cpu-peft
 date: 2024-08-26
-venue: "ICECCE 2024"
+venue: "IEEE ICECCE 2024"
 status: "Oral Presentation"
-authors: "**S. Sim**, M.F. Goh, W.C. Yap, Z.Y. Diong"
+authors: "**S. Sim Zi Yang**, M.F. Goh, W.C. Yap, Z.Y. Diong"
 author_role: "First Author"
 collaborators: "Intel Malaysia"
 collaborator_logo: "/images/collab/intel.png"
