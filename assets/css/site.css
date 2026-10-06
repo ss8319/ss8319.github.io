@@ -167,6 +167,8 @@ a.card:hover .card-go{gap:8px}
 .tag svg{width:12px;height:12px;opacity:.85}
 .tag--first{background:var(--accent-soft);color:var(--accent);border-color:#dcdcfa}
 .tag--collab{background:#fff;color:#5b6373}
+.tag--highlight{background:#fff6e0;color:#8a5a00;border-color:#f0d9a0;cursor:help}
+.tag--highlight svg{opacity:1}
 .tag-logo{height:17px;width:auto;max-width:62px;object-fit:contain;display:block}
 .collab-lead{align-self:center;font-size:.74rem;font-weight:500;color:var(--muted)}
 .ptags{align-items:center}
